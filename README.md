@@ -7,5 +7,5 @@ Sigue dos reglas que se aplican para cada celula de forma independiente y simiul
 
 <img src="https://raw.githubusercontent.com/AdolfoCunquero/images/main/juego-vida-3.JPG" alt="Random" style="height: 100px; width:100px;"/>
 
-<img src="https://raw.githubusercontent.com/AdolfoCunquero/images/main/juego-vida-2.JPG" alt="Matusalenes" style="height: 100px; width:100px;"/>
+<img src="https://raw.githubusercontent.com/AdolfoCunquero/images/main/juego-vida-2.JPG" alt="Matusalenes" />
 
